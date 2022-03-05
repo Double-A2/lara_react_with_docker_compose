@@ -1,6 +1,6 @@
 # ReactJs and Laravel With Docker-Compose
-1 Clone Project
-2 Run Docker-Compose
+1. Clone Project
+2. Run Docker-Compose
 
 ___
 
